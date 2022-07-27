@@ -1,0 +1,47 @@
+.logoRegistrationDiv{
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
+.welcomeTitle{
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 38px;
+    color: #1D1B87;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+/*.orBigDiv{*/
+/*    margin-top: 32px;*/
+/*    margin-bottom: 32px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.orSmallDiv {*/
+/*    font-family: Rubik-Regular, sans-serif;*/
+/*    font-size: 18px;*/
+/*    line-height: 21px;*/
+/*    font-style: normal;*/
+/*    color: #1D1B87;*/
+/*}*/
+
+/*.orBigDiv:before{*/
+/*    content: "";*/
+/*    width: 215px;*/
+/*    height: 1px;*/
+/*    background-color: #BFBFBF;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+/*.orBigDiv:after {*/
+/*    content: "";*/
+/*    width: 215px;*/
+/*    height: 1px;*/
+/*    background-color: #BFBFBF;*/
+/*    margin-left: 10px;*/
+/*}*/

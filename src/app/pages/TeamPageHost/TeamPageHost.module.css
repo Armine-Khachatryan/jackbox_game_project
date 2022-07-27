@@ -1,0 +1,39 @@
+.logoImgDiv2{
+    margin-top: 240px;
+    text-align: center;
+}
+
+.vectorDownUp{
+    margin-left: 16px
+}
+
+.teamsBelowDiv{
+    width: 442px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px -8px 6px rgba(70, 82, 223, 0.3);
+    border-radius: 4px;
+    padding: 24px 99px;
+    margin: 4px auto;
+}
+
+.teamName{
+    font-family:Rubik-Medium,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    border-bottom: 1px solid #6279FA;
+    text-align: center;
+    cursor: pointer;
+}
+
+.teamName:first-child{
+    padding-top: 0
+}
+
+.teamName:last-child{
+    border-bottom:none
+}
+

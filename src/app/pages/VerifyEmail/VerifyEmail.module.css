@@ -1,0 +1,53 @@
+.verifyDiv{
+    height: 400px;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    padding: 48px 97px;
+    margin-top: 249px;
+}
+
+.helloDiv{
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+    color: #1D1B87;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+
+.verifyTextDiv{
+    color: #000000;
+}
+
+
+.first{
+    text-align: center;
+}
+
+
+.verifyTextDiv:last-child{
+    margin-top:24px;
+}
+
+.verifyBtn{
+    width: 340px;
+    padding: 13px 50px;
+    text-align: center;
+    background: #6279FA;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25), inset 0px -4px 6px rgba(70, 82, 223, 0.3);
+    border-radius: 39620px;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    margin: 32px auto 48px;
+    display: flex;
+    cursor: pointer;
+    border: none;
+}
+

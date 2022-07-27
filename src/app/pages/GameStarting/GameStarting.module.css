@@ -1,0 +1,8 @@
+.gameStartingWholeDiv{
+    background-image:url("../../assets/images/BackgroundPicture.png");
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}

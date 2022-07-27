@@ -1,0 +1,115 @@
+.boxAndLogo{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 64px;
+}
+
+.logoImgDiv{
+    margin-top: 11px;
+    text-align: center;
+}
+
+.boxGatheringDiv{
+    width: 1198px;
+    height: 1149px;
+    padding-top: 64px;
+    padding-left: 122px;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    background: #FFFFFF;
+    margin-top: 64px;
+}
+
+.gameDetailsGathering{
+    display: flex;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.gameDetailNameGathering{
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BFBFBF;
+    margin-right: 5px;
+}
+
+.gameDetailValueGathering{
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+
+.waitingDiv{
+    margin: auto;
+    width: 591px;
+    background: #6279FA;
+    border-radius: 8px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 66px;
+}
+
+.alreadyEnteredWord{
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.alreadyEnteredOnes{
+    padding-top: 59px;
+    padding-left: 175px;
+    padding-right: 145px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.personEntered{
+    margin-bottom: 80px;
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+.characterDiv{
+    width: 170px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 46px;
+    padding-bottom: 46px;
+}
+
+.characterName{
+    margin-top: 16px;
+    font-family:Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    text-align: center;
+}
+
+
+
+
+
+

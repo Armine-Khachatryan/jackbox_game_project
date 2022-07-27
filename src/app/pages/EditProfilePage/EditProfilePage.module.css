@@ -1,0 +1,60 @@
+.EditProfileWholeDiv{
+    width: 470px;
+    height:600px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 48px;
+}
+
+.closeImgDiv{
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.closeImg{
+   width: 14px;
+    height: 14px;
+}
+
+.editProfileDivs{
+   max-width: 406px;
+    width: 100%;
+}
+
+
+.editProfilePictureDiv{
+    margin: 32px auto 32px;
+    width: 140px;
+    height: 140px;
+    position: relative;
+    text-align: center;
+}
+
+.cameraImage{
+    position: absolute;
+    bottom: -15px;
+    right: -15px;
+    cursor: pointer;
+}
+
+.uploadedProfPic{
+    border-radius: 360px;
+    width: 140px;
+    height: 140px;
+}
+
+.uploadPicInput{
+    display: none;
+}
+

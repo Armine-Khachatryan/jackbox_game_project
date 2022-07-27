@@ -1,0 +1,22 @@
+.modalDiv{
+    padding-bottom: 16px;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #6279FA;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.modalDiv:nth-child(2){
+    margin-bottom: 10px;
+}
+
+.modalDiv:last-child{
+    margin-bottom: 0;
+    border-bottom:none;
+    padding-bottom: 0;
+}

@@ -1,0 +1,20 @@
+.bigButton {
+    background: #6279FA;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px -4px 6px rgba(70, 82, 223, 0.3);
+    border-radius: 39620px;
+    max-width: 470px;
+    width: 100%;
+    color:#FFFFFF;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding-top:13px;
+    padding-bottom: 13px;
+    border: none;
+}

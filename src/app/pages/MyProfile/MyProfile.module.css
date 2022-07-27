@@ -1,0 +1,154 @@
+
+.profilePart{
+    width: 470px;
+    height: 381px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    position: relative;
+}
+
+.editImgDiv{
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.editImg{
+    width: 18px;
+    height: 18px;
+}
+
+.ProfileDivs{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profilePictureDiv{
+    margin-top: 32px;
+    width: 140px;
+    height: 140px;
+    position: relative;
+}
+
+
+.cameraImage{
+    position: absolute;
+    bottom: -15px;
+    right: -15px;
+    cursor: pointer;
+}
+
+.fullName{
+    font-family:Rubik-Medium,sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #1D1B87;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nickname{
+    font-family:Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+.email{
+    font-family:Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.changePass{
+    font-family:Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    text-decoration-line: underline;
+    color: #6279FA;
+    cursor: pointer;
+}
+
+.logOutWholeDiv{
+    display: flex;
+    margin-top: 27px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logOutIcon{
+    width: 24px;
+    height: 24px;
+}
+
+.logOutText{
+    font-family:Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-left: 9px;
+}
+
+.buttonsProfileDiv{
+    margin-top:50px;
+}
+
+.profilePic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.uploadPicInput{
+    display: none;
+}
+
+.uploadedProfPic{
+    border-radius: 360px;
+    width: 140px;
+    height: 140px;
+}
+
+.changePasswordDiv{
+    font-family:Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    text-decoration-line: underline;
+    color:#6279FA;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+

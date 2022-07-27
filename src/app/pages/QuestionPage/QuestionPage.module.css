@@ -1,0 +1,52 @@
+.totalPage{
+    background-image:url("../../assets/images/BackgroundPicture.png");
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 240px;
+}
+
+.logoDiv{
+    width: 165px;
+    height: 46px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.headerIcon{
+    width: 64px;
+    height: 64px;
+    cursor: pointer;
+}
+
+.profileIcon{
+    width: 100%;
+}
+
+.questionDiv{
+    margin-top: 238px;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 96px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    padding-left: 303px;
+    padding-right: 303px;
+}
+
+
+

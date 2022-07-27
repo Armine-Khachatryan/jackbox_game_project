@@ -1,0 +1,22 @@
+.backHomeDiv{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 244px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.homeImg{
+    width: 16px;
+    height: 18px;
+}
+
+.backHome{
+    margin-left: 12px;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+

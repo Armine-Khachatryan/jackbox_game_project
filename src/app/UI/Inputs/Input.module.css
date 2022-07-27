@@ -1,0 +1,58 @@
+.control{
+    margin-bottom: 20px;
+}
+
+.control input,
+.control label {
+    display: block;
+}
+
+.inputDiv{
+    position: relative;
+}
+
+.control input,
+.select {
+    border: 2px solid #6279FA;
+    border-radius: 39620px;
+    padding: 14px 20px;
+    font-family: Rubik-Regular, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    max-width: 470px;
+    width: 100%;
+}
+
+.control input:focus{
+    border: 2px solid #6279FA;
+    outline: none;
+    color: #000000;
+}
+
+.control input::placeholder{
+    color: #BFBFBF;
+}
+
+.invalid{
+    border: 2px solid red !important;
+}
+
+.textDanger{
+    font-family: Rubik-Regular, sans-serif;
+    font-size: 14px;
+    color: red;
+    margin-top: 10px;
+    max-width: 470px;
+    width: 100%;
+}
+
+.inputDiv img{
+    width: 22px;
+    position: absolute;
+    bottom: 15px;
+    right: 35px;
+    cursor: pointer;
+}
+
+

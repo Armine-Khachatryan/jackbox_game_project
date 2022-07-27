@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  background-color:#FFFFFF;
+}
+
+.logoClass{
+  max-width: 350px;
+  width: 100%;
+}
+
+.entireDiv{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.smallContainer{
+  max-width: 470px;
+  width: 100%;
+}
+
+
+.logoImgDivMyProfile{
+  margin-top: 122px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.buttonsDiv{
+  margin-top: 120px;
+}
+
+.buttonsSmallDiv{
+  margin-bottom: 32px;
+}
+
+
+@font-face {
+  font-family: Rubik-SemiBold;
+  src: url(app/assets/fonts/Rubik/Rubik-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Medium;
+  src: url(app/assets/fonts/Rubik/Rubik-Medium.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Regular;
+  src: url(app/assets/fonts/Rubik/Rubik-Regular.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Light;
+  src: url(app/assets/fonts/Rubik/Rubik-Light.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Bold;
+  src:  url(app/assets/fonts/Rubik/Rubik-Bold.ttf);
+}
+
+@font-face {
+  font-family: Mulish-Medium;
+  src: url(app/assets/fonts/Mulish/Mulish-Medium.ttf);
+}
+
+@font-face {
+  font-family: Mulish-SemiBold;
+  src: url(app/assets/fonts/Mulish/Mulish-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Mulish-Regular;
+  src: url(app/assets/fonts/Mulish/Mulish-Regular.ttf);
+}
+
+@font-face {
+  font-family: Mulish-Bold;
+  src: url(app/assets/fonts/Mulish/Mulish-Bold.ttf);
+}

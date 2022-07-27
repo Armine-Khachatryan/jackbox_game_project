@@ -1,0 +1,162 @@
+.logoImgDiv{
+    margin-top: 11px;
+    text-align: center;
+}
+
+
+.boxAndLogo{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 64px;
+}
+
+
+.boxDiv{
+    width: 1198px;
+    padding-top: 140px;
+    padding-left: 120px;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    background: #FFFFFF;
+    margin-top: 64px;
+}
+
+
+.gameDetails{
+    display: flex;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.gameDetailName{
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #BFBFBF;
+    margin-right: 5px;
+}
+
+.gameDetailValue{
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+
+.gameDetails:last-child{
+    margin-bottom: 64px ;
+}
+
+.titleCharacteristicsPage{
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1D1B87;
+}
+
+.shortLine{
+    background-color: #6279FA;
+    height: 1px;
+    width: 168px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.boxDivInput,
+select{
+    padding: 14px 20px;
+    width: 558px;
+    border: 2px solid #6279FA;
+    border-radius: 39620px;
+    font-family: Rubik-Regular,sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #1F1F1F;
+    margin-bottom: 64px;
+}
+
+.boxDivInput ::placeholder{
+    color:#BFBFBF;
+}
+
+.boxDivInput:focus{
+    border: 2px solid #6279FA;
+    border-radius: 39620px;
+    outline: none;
+}
+
+.longLine{
+    background-color: #6279FA;
+    height: 1px;
+    width: 219px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+
+.charactersDivs{
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.charactersDiv{
+    max-width: 170px;
+    width: 100%;
+    height: 170px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 20px rgba(98, 121, 250, 0.2);
+    border-radius: 16px;
+    margin-right: 24px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 72px;
+    margin-bottom: 64px;
+}
+
+
+.copy{
+    margin-left: 40px;
+    font-family: Rubik-SemiBold, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    cursor: pointer;
+}
+
+.charactersAndRanges{
+    display: flex;
+}
+
+.ranges{
+    width: 327px;
+}
+
+
+.subRanges{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.subRanges:first-child{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+

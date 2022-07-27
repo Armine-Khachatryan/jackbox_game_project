@@ -1,0 +1,39 @@
+.whiteBigBtnDiv {
+    position: relative;
+}
+
+.whiteBigBtnDiv button {
+    max-width: 470px;
+    width: 100%;
+    font-family: Rubik-Medium, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    color: #1D1B87;
+    background: #FFFFFF;
+    border: 1px solid #6279FA;
+    border-radius: 39620px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.iconDiv{
+    position: absolute;
+    bottom: 8px;
+    left: 100px;
+}
+
+.iconStyle{
+    width: 24px;
+    height: 24px;
+}
+
+
+
+
+
